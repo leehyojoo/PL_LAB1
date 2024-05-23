@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxU0NZ3trfdLT1xQf6K4gUqanu8Zoptfpkd/SFydo5jiJl/X8vfvUcCVUyLf2FskPmRGYiQ8BYOrxOe8UwEDEw==",
+  "success": true,
+  "projectFilePath": "/sogang/under/cse20200901/Lab1/P5/P5.fsproj",
+  "expectedPackageFiles": [
+    "/sogang/under/cse20200901/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
